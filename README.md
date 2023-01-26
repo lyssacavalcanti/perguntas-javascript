@@ -32,7 +32,7 @@ console.log(b === c);
 - D: `false` `true` `true`
 <details><summary><b> ✅ RESPOSTA CERTA<b></summary>
 <p>
-```
+
 #### Resposta: C
 new Number() é um construtor de função integrado, tem vários recursos extras e é um objeto.1
 Pode até parecer um número, mas não é.
@@ -64,7 +64,7 @@ console.log('🤜' + '🤛');
 
 #### Resposta B
 
-Você pode concatenar strings usando o operador `+`. No exemplo acima, os emojis forma contcatenados em forma de string. Por isso, output é '🤜🤛" 
+Você pode concatenar strings usando o operador `+`. No exemplo acima, os emojis foram contcatenados em forma de string. Por isso, output é '🤜🤛" 
 </p>
 </details>
 
