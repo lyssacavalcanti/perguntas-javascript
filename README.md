@@ -12,7 +12,7 @@ Você pode encontrar muito mais conteúdos de programação e tecnologia por aqu
 </a>
 
 
-### ⬛ 1
+## ⬛ 1
 
 Qual é o output?
 
@@ -30,11 +30,10 @@ console.log(b === c);
 - B: `false` `false` `true`
 - C: `true` `false` `false`
 - D: `false` `true` `true`
-<details>
-<summary>✅ RESPOSTA CERTA</summary>
-
+<details><summary><b> ✅ RESPOSTA CERTA<b></summary>
+<p>
 ```
-Resposta: C
+#### Resposta: C
 new Number() é um construtor de função integrado, tem vários recursos extras e é um objeto.1
 Pode até parecer um número, mas não é.
 
@@ -43,7 +42,30 @@ Ambos têm o valor de 3, então retorna true.
 
 Mas quando usamos o operador === (operador de igualdade estrita), tanto o valor quanto o tipo devem ser iguais.
 Nesse caso, new Number() não é um número, é um objeto, por isso os dois  retornam false.
-```
-
+</p>
 </details>
 
+---
+## ⬛ 2
+
+Qual é o output?
+
+```javascript
+console.log('🤜' + '🤛');
+```
+
+- A: Uma string com unicode dos emojis
+- B: `'🤜🤛"`
+- C: Undefined
+- D: `'🤜 + 🤛''`
+
+<details><summary><b>✅ RESPOSTA CERTA</b></summary>
+<p>
+
+#### Resposta B
+
+Você pode concatenar strings usando o operador `+`. No exemplo acima, os emojis forma contcatenados em forma de string. Por isso, output é '🤜🤛" 
+</p>
+</details>
+
+---
