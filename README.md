@@ -69,3 +69,34 @@ Você pode concatenar strings usando o operador `+`. No exemplo acima, os emojis
 </details>
 
 ---
+
+## ⬛ 3
+
+Qual será o retorno?
+
+```javascript
+[...'Lyssa'];
+```
+
+- A: ["L","y","s","s","a"]
+- B: [["L","y","s","s","a"]]
+- C: ["Lyssa"]
+- D: [[],"Lyssa"]
+
+<details><summary><b>✅ RESPOSTA CERTA</b></summary>
+<p>
+
+#### Resposta A
+
+A palavra "Lyssa" é um string e toda string é iterável, ou seja, pode ser repetida.
+
+Iteração é uma execução repetida de uma sequência de instruções, coisa que os computadores fazem muito bem.
+
+O operador spread [...] mapeia cada caractere de um iterável para um elemento.
+
+Portanto, senhores, o retorno do spread cria um array com cada letra separada.
+
+</p>
+</details>
+
+---
