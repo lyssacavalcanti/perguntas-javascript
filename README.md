@@ -100,3 +100,33 @@ Portanto, senhores, o retorno do spread cria um array com cada letra separada.
 </details>
 
 ---
+
+## ⬛ 4
+
+Como comentar um código em Javascript?
+
+
+- A: < !-- Isso é um comentário em Javascript -->
+- B: # Isso é um comentário em Javascript
+- C: /* Isso é um comentário em Javascript */
+- D: Isso é um comentário em Javascript
+
+<details><summary><b>✅ RESPOSTA CERTA</b></summary>
+<p>
+
+#### Resposta C
+
+Em javascript, você pode usar
+
+// para comentários de 1 linha // 
+</br>
+ou
+<br/>
+/* para comentários com mais de uma linha, </br>
+como esse, por exemplo */
+
+
+</p>
+</details>
+
+---
