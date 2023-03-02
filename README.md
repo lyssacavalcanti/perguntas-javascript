@@ -130,3 +130,30 @@ como esse, por exemplo */
 </details>
 
 ---
+
+---
+
+## ⬛ 5
+
+Tudo em Javascript é ...
+
+
+- A: função ou objeto
+- B: primitivo ou objeto
+- C: Essa é pegadinha, tudo é objeto
+- D: Nenhuma das alternativas
+
+<details><summary><b>✅ RESPOSTA CERTA</b></summary>
+<p>
+
+#### Resposta B
+
+Em Javascript, quase tudo é objeto: arrays, funções, construtores e os próprios objetos.
+Mas não podemos esquecer que também exitem os tipos primitivos: null, undefined, strings, numbers, booleans e symbols.
+Por isso, tudo em Javascript ou é primitvo ou objeto.
+
+
+</p>
+</details>
+
+---
